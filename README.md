@@ -2,6 +2,8 @@
 ### This project is a machine learning project that aims to predict the price of cars.
 ### It was made thanks to @krishnaik06's tutorial
 
+### The dataset is <a href='https://github.com/julien-aw/Vehicle-prediction/blob/main/car%20data.csv'>here</a>
+
 ### Resources used :
 
 <a><img src='https://upload.wikimedia.org/wikipedia/commons/2/22/Pandas_mark.svg' width='50px' /></a>
